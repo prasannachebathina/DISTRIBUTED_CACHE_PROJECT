@@ -1,0 +1,5 @@
+image:
+  repository: dcache
+  tag: "0.1.0"
+  pullPolicy: IfNotPresent
+replicaCount: 3
